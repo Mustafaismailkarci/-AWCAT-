@@ -1,0 +1,2 @@
+# -AWCAT-
+[AWCAT]
